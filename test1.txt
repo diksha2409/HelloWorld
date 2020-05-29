@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2B5-876B
+
+ Directory of C:\Users\Sachin\Desktop\JavaProject
+
+05/29/2020  05:47 PM    <DIR>          .
+05/29/2020  05:47 PM    <DIR>          ..
+05/29/2020  04:55 PM               676 Hello.class
+05/29/2020  04:02 PM               146 Hello.java
+05/29/2020  05:47 PM                 0 test1.txt
+               3 File(s)            822 bytes
+               2 Dir(s)   1,390,522,368 bytes free
